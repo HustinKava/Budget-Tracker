@@ -1,0 +1,18 @@
+language: node_js
+node_js:
+- stable
+npm: true
+cache:
+  directories:
+  - node_modules
+deploy:
+  provider: heroku
+  api_key:
+    secure: t4nZtb9w8z8/7MkPjkyHbaSUJPBJCjDY8hE0tDbyiJjEr+JAE4KC/Aa1ZOJp6yWrEYEqYGZtK3VsNedDYncA0UT0wtNtaXhcpZR7vt0TAIcvXhM4TsP/U7MKcb0yrQKRDydGbZlu1D41xD9zY03GPetFlLCK/+WoFMaiUJjNEo4v++0MFvodRv5sId1VSXL/lOPMje5LhTvQoA7s/hLIv3urRJ7BccCu4wKAosZlmYiVYzlaSHXnflvy0wU+HKBDxbt/rv9fG1wjkxEYT8LJo0njE15ws57LOkLYv62c/8CQKCoq9iJj520amQkEQq8oWYuXzTUkvpgQ5g0q6D4g7Zg8oHo6GdjdaZj+bwXfiGr/Yi6k5vyciJAzGdu593HtKqe9ZTL0A+pbaZ4gLcJmZsdO49Qxj0BkPx+VTZydN47Qbl/LWIsS4PGSEDsY7fnU+p/Ns5AqVTcpqDQ3kN+Y7oRQtLA3youhS2UwtvCJ4KUaSeM0lLnIsusFZLtU3R3RiCO3CJYptzeg+5YrlpkzXaezXdwdnNRzlXjnuxQsdb5tozTzd6JyRu2bKTHG5jHefZDO4icDy6m14jUHD+bMvj7T4vKqaU48obFiIv0zC09hwyV1l7AbQMv/Kl+apSqCtqdXbmP5cIoZSXuobB4GrcxdF+AkBRyQLp+4AyRUnH4=
+  app: protected-garden-52217
+  on:
+    all_branches: 'true'
+    repo: HustinKava/Budget-Tracker
+  skip_cleanup: 'true'
+script:
+- echo "skipping tests"
