@@ -9,7 +9,7 @@ deploy:
   provider: heroku
   api_key:
     secure: R0oeKDasCxhFKU6OLRE/ku0MJ+BFl//KfeRxgtgiGDNSkXc3EeauHAwbShxu0knuQLR8+BXP3ILoICSQOUCCSxMX0YiYZusdWfRSAsfdazfuuKqQmNwbJJp4wbT3G1Yklu9lMl3313x9YFqJpZSE13jKik94vzyzZ6QGWexUfv/5RxXq+djUzYj9Or5BdRB2t9645f03OwlC8YUeo4I1MqQLSERldHfp50N0uy0lWvQbWt8C7i/qBfW+jcQJ/usw15ympF5xNngkThRlzLcYJ8GXBIK2dZj5RkeQimW3jWgANp85vWFTh9Lzv40CGXjLiNkXfPmsoByGaQLabXNUFfKvpy3vdgTeRV5Q0cKo3sCW9ahTtjP3aP0ojA/F5rBNNRy8yiXRTDtkdHqTJ3UGHEzBNctpHcNG7eMHiE+PU29aS/ymXtVJCeBmfLxGoTJ1AGF4geVefRqYSaCi4YDiNpHro1tGrlEZMy2UuiJPyCXlKfmvItWyaMIjNfboY1acXlzLjR1q7lT/YYjL9DoKOqbLx2sStj80iIbizUyBdABjLLDKjE/c4iZn1qlhmgqDqfs3OJte5k5YBiSskDTQeTcnDinG3koGq9SCqTzu6JKf15AaIcFBxeksdfFo7B/jsg1TkGYZ2L0xFpCKg3OHKZ71G80J3e4Ak9wdntXjF7s=
-  app: powerful-shelf-07897
+  app: limitless-taiga-69733
   on:
     all_branches: 'true'
     repo: HustinKava/Budget-Tracker
