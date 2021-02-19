@@ -41,9 +41,9 @@ Simply copy paste http://localhost:8080 into a browser of your choice.
 
 ## Screenshots
 IndexedDB
-![](public/images/Screenshot1.PNG)
+![](public/images/indexeddb.PNG)
 Service Worker
-![](public/images/Screenshot2.PNG)
+![](public/images/serviceworker.PNG)
 Static cache
 ![](public/images/Screenshot3.PNG)
 Data cache
