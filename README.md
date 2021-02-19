@@ -44,6 +44,12 @@ Saving values offline
 ![](public/images/Screenshot1.PNG)
 Database updated when online 
 ![](public/images/Screenshot2.PNG)
+Static cache
+![](public/images/Screenshot3.PNG)
+Data cache
+![](public/images/Screenshot4.PNG)
+Manifest
+![](public/images/Screenshot5.PNG)
 
 ## View Live Website  
 Please click **[Here](https://protected-garden-52217.herokuapp.com/)** to view the live webpage hosted on Heroku
