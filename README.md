@@ -40,9 +40,9 @@ Server listening on: http://localhost:8080
 Simply copy paste http://localhost:8080 into a browser of your choice.
 
 ## Screenshots
-Saving values offline
+IndexedDB
 ![](public/images/Screenshot1.PNG)
-Database updated when online 
+Service Worker
 ![](public/images/Screenshot2.PNG)
 Static cache
 ![](public/images/Screenshot3.PNG)
